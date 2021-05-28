@@ -1,15 +1,14 @@
-import { Component } from 'react'
-import Row from '../Row/Row';
-
+import { Component } from "react";
+import Row from "../Row/Row";
 
 export class Container extends Component {
-    render() {
-        return (
-            <div className="container">
-                <Row></Row>
-            </div>
-        )
-    }
+  render() {
+    return (
+      <div className="container">
+        <Row></Row>
+      </div>
+    );
+  }
 }
 
-export default Container
+export default Container;
