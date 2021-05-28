@@ -1,6 +1,5 @@
 import { Component } from "react";
 import ColLeftMenu from "../ColLeftMenu/ColLeftMenu";
-
 import Header from "../Header/Header";
 import ContentBlock from "../ContentBlock/ContentBlock";
 export class Row extends Component {
