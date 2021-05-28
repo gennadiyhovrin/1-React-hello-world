@@ -10,21 +10,21 @@ export class ContentBlock extends Component {
           data-bs-ride="carousel"
         >
           <div className="carousel-inner">
-            <div className="carousel-item active" data-bs-interval="1000">
+            <div className="carousel-item active" data-bs-interval="3000">
               <img
                 src="https://loremflickr.com/320/240/paris"
                 className="d-block w-100"
                 alt="..."
               />
             </div>
-            <div className="carousel-item" data-bs-interval="1000">
+            <div className="carousel-item" data-bs-interval="3000">
               <img
                 src="https://loremflickr.com/320/240/cat"
                 className="d-block w-100"
                 alt="..."
               />
             </div>
-            <div className="carousel-item" data-bs-interval="1000">
+            <div className="carousel-item" data-bs-interval="3000">
               <img
                 src="https://loremflickr.com/320/240/dog"
                 className="d-block w-100"
